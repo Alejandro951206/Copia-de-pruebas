@@ -323,13 +323,11 @@ $red-social: (
     border: 2px solid black;
 }
 
-
-
 .btn-footer {
 
     @include boton;
 
-    
+
 }
  
  @media (max-width: 700px) {
